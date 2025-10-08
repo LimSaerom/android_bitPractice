@@ -157,7 +157,7 @@ public class MainActivity extends AppCompatActivity
 
     /**
      * 읽어온 파일에서 입력된 단어를 찾기 위함
-     * 확인을 위해 임의 단어 study, developer 추가해둠
+     * 확인을 위해 임의 단어 study, developer 추가
      */
     public void searchWord()
     {
